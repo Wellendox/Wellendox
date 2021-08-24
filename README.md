@@ -4,6 +4,7 @@
 ## I know quite a few languages and use a wide variety of tools, highly recommend tbh
 <img align="left" alt="Visual Studio 2019" width="26px" src="https://img.icons8.com/color/452/visual-studio-2019.png" />
 <img align="left" alt="Jetbrains Rider" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/snap-icon.png" />
+<img align="left" alt="Atom" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05100836-b28d-4395-a29d-2f17b751c23f/dcbs47l-feac0482-1b74-43a9-939b-d023e192fbf8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1MTAwODM2LWIyOGQtNDM5NS1hMjlkLTJmMTdiNzUxYzIzZlwvZGNiczQ3bC1mZWFjMDQ4Mi0xYjc0LTQzYTktOTM5Yi1kMDIzZTE5MmZiZjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4CYJ1wSmorxWThn5F-36p3EVi1nHgVj7E-dzSvN_H4Y" />
 <img align="left" alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />

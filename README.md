@@ -30,5 +30,3 @@
 - Timed & automated messages like MOTD. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/855029419399446548.png?v=1" />
 - Lots of other shit. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/682256038262865994.png?v=1" />
 <br>
-# The best Discord server to exist:
-[<img align="left" width="128px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />](https://discord.gg/5Ftmnv9)

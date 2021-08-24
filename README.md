@@ -27,4 +27,5 @@
 - Blacklisting of commands you dont want <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/670402733525827584.png?v=1" />
 - Blacklisting of Discord tags, to ban them if they ever join. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/697638528779288698.png?v=1" />
 - A Ticket System <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/615562863263744027.png?v=1" />
+- Timed & automated messages like MOTD. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/855029419399446548.png?v=1" />
 - Lots of other shit. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/682256038262865994.png?v=1" />

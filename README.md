@@ -15,7 +15,7 @@
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />](https://git-scm.com/)
 <br><br>
 
-### I'm also a superb memer, and made a Discord Bot that is for the use of my Community only, well, not only.. but I don't want to open it to public. If we get along, and you want to get the Bot, then hop into my Discord and hit me up.
+### I'm also a superb memer, and made a Discord Bot that is for the use of my Community only, well, not only.. but I don't want to open it to public. If we get along, and you want to get the Bot, then just DM me in Discord: Wellen#4062
 ### Features are:
 - Admin commands with innovative features such as DM'ing specific content to a chosen role. Very nice, yes. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/723003329155956777.png?v=1" />
 - Warn system with automated ban and logging. <img align="right" width="52px" src="https://cdn.discordapp.com/emojis/841269620727349259.png?v=1" />

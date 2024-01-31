@@ -1,4 +1,5 @@
 # Once upon a time, I fixed a bug that wasn't mine.
+# Don't let the memes fool you
 
 ### Professional bug creator.
 ### Successful uni dropout
